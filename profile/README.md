@@ -1,5 +1,5 @@
 ## ACCESS RESTRICTED: 
 
-## OWNED BY HYPERCONSTRUCT CO - COPYRIGHT (c) 2020-2024
+## OWNED BY INFINITE REALITY - COPYRIGHT (c) 2020-2024
 
-## Please visit [Ethereal Engine](https://github.com/etherealengine)
+## Please visit [Infinite Reality](https://github.com/theinfinitereality)
